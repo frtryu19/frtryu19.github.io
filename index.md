@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Project 
 
 [Project 1 ID/X Partners Credit Risk](/pdf/INFOGRAFIS.pdf)
 <img src="images/IDX_Partners.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Link Github 
 
 - [Project 1 ID/X Partners Credit Risk](https://github.com/frtryu19/Credit-Risk-using-RF-ANN)
 - [Project 2 Home Credit Classification](https://github.com/frtryu19/Home-Credit-Loan)
