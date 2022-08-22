@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Frederic Tri Yudha # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm Yudha, Pleased to meet you. I love
+  solving real world problems with a
+  programming language. I'm a
+  dedicated and high-willed person
+  with an interest in Python especially
+  Machine Learning
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/frederictriyudha/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
