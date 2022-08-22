@@ -8,7 +8,7 @@
 <img src="images/IDX_Partners.jpg?raw=true"/>
 
 ---
-[Project 2 Home Credit Classification](/pdf/Home Credit_Classification.pptm)
+[Project 2 Home Credit Classification](/pdf/Home Credit_Classification.ppt)
 <img src="images/Home_Credit.jpg?raw=true"/>
 
 ---
