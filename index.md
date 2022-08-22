@@ -17,7 +17,7 @@
 
 ---
 
-### Link Github 
+### Github Link
 
 - [Project 1 ID/X Partners Credit Risk](https://github.com/frtryu19/Credit-Risk-using-RF-ANN)
 - [Project 2 Home Credit Classification](https://github.com/frtryu19/Home-Credit-Loan)
