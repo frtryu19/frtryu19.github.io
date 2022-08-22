@@ -4,32 +4,30 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 ID/X Partners Credit Risk](/pdf/INFOGRAFIS.pdf)
+<img src="images/IDX_Partners.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Home Credit Classification](/pdf/Home Credit_Classification.ppt)
+<img src="images/Home_Credit.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Indonesian Vaccinne Progress](https://www.kaggle.com/code/frederictriyudha/vaksinasi-covid19-dunia-dan-asean-indonesia)
+<img src="images/Indo_Vacc.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+- [Project 1 ID/X Partners Credit Risk](https://github.com/frtryu19/Credit-Risk-using-RF-ANN)
+- [Project 2 Home Credit Classification](https://github.com/frtryu19/Home-Credit-Loan)
+- [Project 3 Indonesian Vaccinne Progress](https://github.com/frtryu19/Indonesia_Vacc_Covid)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
+
+---
+
